@@ -191,6 +191,8 @@ class Display {
   }
 }
 
+
+
 let TeclasDeNumero = document.getElementById("numeros");
 let TeclasDeOperacao = document.getElementById("operacoes");
 let Tela = new Display();
